@@ -1,1 +1,1 @@
-# ngAppReference
+# ngAppReference - Example of Angular Basics
